@@ -11,6 +11,8 @@ In this model, the web application is divided into three components: the model (
 
 *Other models:*
 Client-Server Model: In this model, the web application is designed to have a client side and a server-side component. The client-side code runs in the user's browser, while the server-side code runs on the cloud server. The client sends requests to the server, which responds with data or performs actions. 
+
 *Microservices Model:* In this model, the web application is divided into smaller, independent services that can be developed, deployed, and scaled independently. Each service performs a specific function, and they communicate with each other via APIs. 
+
 *Serverless Model:* In this model, the web application is designed to run on a serverless architecture, which means that the cloud provider handles the infrastructure and scaling of the application. The developer only needs to provide the application code, which is executed in response to requests.
 
