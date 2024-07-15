@@ -1,5 +1,5 @@
 
-# Cloud Computing - JComponent Project
+# Cloud Computing - J - Component Project of winter semester
 
 # Introduction
 
