@@ -5,7 +5,7 @@
 In today's rapidly evolving technological landscape, the development of web applications has become increasingly complex and demanding. As businesses and organizations strive to deliver seamless user experiences, scalable solutions, and efficient resource management, the role of cloud services has become pivotal. Cloud services offer a powerful and flexible platform for developing web applications, allowing developers to harness the advantages of cloud computing and leverage its vast array of services. By shifting the infrastructure and computational resources to the cloud, developers can focus more on building and enhancing their web applications, rather than managing hardware and software infrastructure. This guide aims to provide an overview of developing web applications using cloud services, exploring the  benefits, challenges, and best practices associated with this approach. We will delve  into the key components of cloud computing, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and examine how they can be utilized to create robust, scalable, and cost-effective web applications.
 
 ## Model
-## Model-View-Controller (MVC) Model:
+### Model-View-Controller (MVC) Model:
 In this model, the web application is divided into three components: the model (which represents the data and logic), the view (which represents the user interface), and the controller (which handles user input and updates the model and view accordingly). 
 
 *Other models:*
