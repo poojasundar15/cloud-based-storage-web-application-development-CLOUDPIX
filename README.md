@@ -1,12 +1,11 @@
 
-# Cloud Computing - J - Component Project of winter semester
-
-# Introduction
+# Cloud Computing - J - Component Project
+## Introduction
 
 In today's rapidly evolving technological landscape, the development of web applications has become increasingly complex and demanding. As businesses and organizations strive to deliver seamless user experiences, scalable solutions, and efficient resource management, the role of cloud services has become pivotal. Cloud services offer a powerful and flexible platform for developing web applications, allowing developers to harness the advantages of cloud computing and leverage its vast array of services. By shifting the infrastructure and computational resources to the cloud, developers can focus more on building and enhancing their web applications, rather than managing hardware and software infrastructure. This guide aims to provide an overview of developing web applications using cloud services, exploring the  benefits, challenges, and best practices associated with this approach. We will delve  into the key components of cloud computing, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and examine how they can be utilized to create robust, scalable, and cost-effective web applications.
 
-# Model
-# Model-View-Controller (MVC) Model:
+## Model
+## Model-View-Controller (MVC) Model:
 In this model, the web application is divided into three components: the model (which represents the data and logic), the view (which represents the user interface), and the controller (which handles user input and updates the model and view accordingly). 
 
 *Other models:*
@@ -16,8 +15,8 @@ Client-Server Model: In this model, the web application is designed to have a cl
 
 *Serverless Model:* In this model, the web application is designed to run on a serverless architecture, which means that the cloud provider handles the infrastructure and scaling of the application. The developer only needs to provide the application code, which is executed in response to requests.
 
-# Methods
-## Firebase
+## Methods
+### Firebase
 Firebase is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development. Firebase provides backend services to web/mobile apps. Services include a real time NoSQL database, cloud storage, hosting and authentication API which includes popular social logins like google, Facebook and GitHub and so on. Using a platform like firebase speeds up the development process.
 Firebase provides a lot of services, we have
  - Authentication
