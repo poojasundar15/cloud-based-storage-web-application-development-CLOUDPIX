@@ -23,12 +23,11 @@ Firebase provides a lot of services, we have
  - Cloud Firestore
  - Cloud storage
  - Hosting 
-## Firebase Authentication 
+### Firebase Authentication 
 Most apps need to know the identity of a user. Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalised experience across all of the user's devices. Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.
-## Cloud Firestore 
+### Cloud Firestore 
 Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through real time listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions. 
-## Cloud Storage 
+### Cloud Storage 
 Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos. Cloud Storage for Firebase is a powerful, simple, and cost-effective object storage service built for Google scale. The Firebase SDKs for Cloud Storage add Google security to file uploads and downloads for your Firebase apps, regardless of network quality.
-## Idea and Working
+### Idea and Working
 When the user first visits the webpage, they are asked to login with their Google account. Once they logged in they are directed to the home page where they can view pictures which are uploaded by everyone. In the profile page a user can view the pictures which they uploaded. A user can delete their picture. Users can log out from the website as well.
-
