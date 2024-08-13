@@ -1,4 +1,4 @@
-# CLOUD BASED WEB APPLICATION DEVELOPEMENT ON REACTJS
+# CloudPix: A Scalable Image Storage and Management Application with ReactJS on Cloud
 
 ## INTRODUCTION 
 
