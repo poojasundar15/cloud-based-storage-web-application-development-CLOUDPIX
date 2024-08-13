@@ -1,4 +1,4 @@
-# CloudPix: A Scalable Image Storage and Management Application with ReactJS on Cloud
+# CloudPix: A Scalable Image Storage and Management Application with ReactJS and Firebase
 
 ## INTRODUCTION 
 
