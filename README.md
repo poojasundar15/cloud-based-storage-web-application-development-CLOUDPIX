@@ -1,10 +1,10 @@
 # CloudPix: A Scalable Image Storage and Management Application with ReactJS and Firebase
 
-## INTRODUCTION
+## 1. INTRODUCTION
 
 In today's rapidly evolving technological landscape, the development of web applications has become increasingly complex and demanding. As businesses and organizations strive to deliver seamless user experiences, scalable solutions, and efficient resource management, the role of cloud services has become pivotal. Cloud services offer a powerful and flexible platform for developing web applications, allowing developers to harness the advantages of cloud computing and leverage its vast array of services. By shifting the infrastructure and computational resources to the cloud, developers can focus more on building and enhancing their web applications, rather than managing hardware and software infrastructure. This guide provides an overview of developing web applications using cloud services and exploring the  benefits, challenges, and best practices associated with this approach. We will delve  into the key components of cloud computing, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and examine how they can be utilized to create robust, scalable, and cost-effective web applications.
 
-## MODEL
+## 2. MODEL
 ### Model-View-Controller (MVC) Model:
 In this model, the web application is divided into three components: the model (which represents the data and logic), the view (which means the user interface), and the controller (which handles user input and updates the model and view accordingly). 
 
@@ -15,16 +15,16 @@ Client-Server Model: In this model, the web application is designed to have a cl
 
 *Serverless Model:* In this model, the web application is designed to run on a serverless architecture, which means that the cloud provider handles the infrastructure and scaling of the application. The developer only needs to provide the application code executed in response to requests.
 
-## METHODS 
+## 3. METHODS 
 ### Firebase
-Firebase is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development. Firebase provides backend services to web/mobile apps. Services include a real-time NoSQL database, cloud storage, hosting, and authentication API which includes popular social logins like Google, Facebook, GitHub, and so on. Using a platform like Firebase speeds up the development process.
+Firebase is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform, which is now its flagship offering for app development. Firebase provides backend services to web and mobile apps. Services include a real-time NoSQL database, cloud storage, hosting, and an authentication API that includes popular social logins like Google, Facebook, GitHub, and so on. Using a platform like Firebase speeds up the development process.
 Firebase provides a lot of services, we have
  - Authentication
  - Cloud Firestore
  - Cloud storage
  - Hosting 
 ### Firebase Authentication 
-Most apps need to know the identity of a user. Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices. Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.
+Most apps need to know the identity of a user. Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all user's devices. Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, and popular federated identity providers like Google, Facebook, and Twitter.
 ### Cloud Firestore 
 Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at a global scale. Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through real-time listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Functions. 
 ### Cloud Storage 
